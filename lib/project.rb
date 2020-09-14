@@ -4,6 +4,6 @@ class Project
     @title = title
   end
   def backers
-
+    @backed_projects
   end
 end
